@@ -2,6 +2,12 @@
 
 A modern, voice-enabled shopping application with intelligent product recommendations and 6-language support. Shop hands-free using voice commands in English, Hindi, Spanish, French, German, or Portuguese!
 
+## 🚀 Live Demo
+
+**Try it now:** [https://parulsingh001.github.io/voice_command_shopping_assistant/](https://parulsingh001.github.io/voice_command_shopping_assistant/)
+
+Simply click the link above and start using voice commands! Allow microphone access when prompted.
+
 ## ✨ Key Features
 
 ### 🎙️ Voice Recognition & Commands
